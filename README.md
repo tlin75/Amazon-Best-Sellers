@@ -41,5 +41,7 @@ Calculated the average user rating for books in each genre (Fiction vs. Non-Fict
 
 ## How to Run
 
-Install dependencies:
-   pip3 install pandas
+1. Install dependencies:
+    pip3 install pandas
+2. Run main file:
+    python best-sellers.py
